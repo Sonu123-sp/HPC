@@ -1,0 +1,30 @@
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 123670145ns or 0.123670145s
+admin@herald-aspire-a715-71g:~/Desktop/1posix/MPI$ mpirun -n 9  ./mpi_linear_000 
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 126132063ns or 0.126132063s
+admin@herald-aspire-a715-71g:~/Desktop/1posix/MPI$ mpirun -n 9  ./mpi_linear_000 
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 110869796ns or 0.110869796s
+admin@herald-aspire-a715-71g:~/Desktop/1posix/MPI$ mpirun -n 9  ./mpi_linear_000 
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 192258432ns or 0.192258432s
+admin@herald-aspire-a715-71g:~/Desktop/1posix/MPI$ mpirun -n 9  ./mpi_linear_000 
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 172026958ns or 0.172026958s
+admin@herald-aspire-a715-71g:~/Desktop/1posix/MPI$ mpirun -n 9  ./mpi_linear_000 
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 140620745ns or 0.140620745s
+admin@herald-aspire-a715-71g:~/Desktop/1posix/MPI$ mpirun -n 9  ./mpi_linear_000 
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 139685000ns or 0.139685000s
+admin@herald-aspire-a715-71g:~/Desktop/1posix/MPI$ mpirun -n 9  ./mpi_linear_000 
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 259013955ns or 0.259013955s
+admin@herald-aspire-a715-71g:~/Desktop/1posix/MPI$ mpirun -n 9  ./mpi_linear_000 
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 166319773ns or 0.166319773s
+admin@herald-aspire-a715-71g:~/Desktop/1posix/MPI$ mpirun -n 9  ./mpi_linear_000 
+minimum m,c is 1.120000,21.860000 with error 10.011686
+Time elapsed : 108957660ns or 0.108957660s
+
